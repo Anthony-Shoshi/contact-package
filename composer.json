@@ -1,0 +1,19 @@
+{
+    "name": "anthony-shoshi/contact",
+    "description": "This package generate contact form and store contact data in database.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anthony Shoshi Gomes",
+            "email": "anthonyshoshigomes1996@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AnthonyShoshi\\Contact\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
